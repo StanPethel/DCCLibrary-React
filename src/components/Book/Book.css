@@ -16,7 +16,7 @@
     height: 650px;
     width: 100%;
     border-bottom-left-radius: 15%;
-    border-bottom-right-radius: 5%;
+    border-top-right-radius: 5%;
 }
 .title {
     padding: 20%;    
