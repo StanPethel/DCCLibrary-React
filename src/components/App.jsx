@@ -8,9 +8,9 @@ class App extends Component {
     constructor(props){
        super(props);
        this.books = [
-           {title: "Ready Player One", author: "Ernest Cline"},
-           {title: "All The Light We Cannot See", author: "Anthony Doerr"},
-           {title: "The First and Last Freedom", author: "Jiddu Krishnamurit"}
+           {title: "CATCH-22", author: "Joseph Heller"},
+           {title: "To Kill A Mockingbird", author: "Harper Lee"},
+           {title: "It Is Often Said ", author: "Tim Hegg"}
        ];
        this.state = {
            bookNumber: 0
